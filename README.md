@@ -1,3 +1,5 @@
+This is a personal deployment of the Radicale CalDAV server. Difference is a now.json configuration file for the use of secrets with Zeit's now.
+
 Read Me
 =======
 
