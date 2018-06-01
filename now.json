@@ -1,0 +1,6 @@
+{
+    "env": {
+        "RADICALE_USR": "@radicale-usr",
+        "RADICALE_PW": "@radicale-pw"
+    }
+}
